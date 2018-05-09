@@ -6,8 +6,9 @@
 
 int main()
 {
+	printf("aggiunto ciao");
     printf("ciao");
     return 0;
-	
+	//aggiunto commento 1.2
 }
 
